@@ -16,5 +16,8 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+  ],
 }

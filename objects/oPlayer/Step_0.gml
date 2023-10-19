@@ -9,6 +9,11 @@ var move =  key_right - key_left;
 
 hsp = move * walksp;
 vsp = vsp + grv;
+
+// check if we are on floor and space is pressed, if not jump
+if (place_meeting(x,y+1,oWall)) && (key_jump) {
+	vsp = -7
+}
 // Horizontal Collision
 if (place_meeting(x+hsp,y,oWall)) {
 	while (!place_meeting(x+sign(hsp),y,oWall)) {

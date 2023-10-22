@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sGun",
+    "path": "sprites/sGun/sGun.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

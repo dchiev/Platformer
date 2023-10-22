@@ -17,10 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"sPlayerR","order":3,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"sPlayerA","order":3,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sPlayer","order":2,"path":"sprites/sPlayer/sPlayer.yy",},
-    {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
+    {"name":"sPlayerR","order":4,"path":"sprites/sPlayerR/sPlayerR.yy",},
   ],
 }

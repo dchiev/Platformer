@@ -41,6 +41,8 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},},
+    {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},},
+    {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"sGun","path":"sprites/sGun/sGun.yy",},},
     {"id":{"name":"sPlayerOld","path":"sprites/sPlayerOld/sPlayerOld.yy",},},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},

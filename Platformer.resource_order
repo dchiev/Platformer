@@ -23,6 +23,8 @@
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sPlayer","order":2,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerR","order":4,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"oBullet","order":3,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"sBullet","order":6,"path":"sprites/sBullet/sBullet.yy",},
     {"name":"sGun","order":5,"path":"sprites/sGun/sGun.yy",},
   ],
 }

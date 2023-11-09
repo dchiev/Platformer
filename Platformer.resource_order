@@ -25,6 +25,7 @@
     {"name":"sEnemyA","order":8,"path":"sprites/sEnemyA/sEnemyA.yy",},
     {"name":"sEnemyD","order":10,"path":"sprites/sEnemyD/sEnemyD.yy",},
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oDead","order":5,"path":"objects/oDead/oDead.yy",},
     {"name":"sPlayer","order":2,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerR","order":4,"path":"sprites/sPlayerR/sPlayerR.yy",},
     {"name":"oBullet","order":3,"path":"objects/oBullet/oBullet.yy",},

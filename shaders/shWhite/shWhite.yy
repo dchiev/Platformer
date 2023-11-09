@@ -1,7 +1,7 @@
 {
   "resourceType": "GMShader",
   "resourceVersion": "1.0",
-  "name": "Shader1",
+  "name": "shWhite",
   "parent": {
     "name": "Shaders",
     "path": "folders/Shaders.yy",

@@ -32,5 +32,6 @@
     {"name":"sBullet","order":6,"path":"sprites/sBullet/sBullet.yy",},
     {"name":"sGun","order":5,"path":"sprites/sGun/sGun.yy",},
     {"name":"sEnemyR","order":9,"path":"sprites/sEnemyR/sEnemyR.yy",},
+    {"name":"oCamera","order":6,"path":"objects/oCamera/oCamera.yy",},
   ],
 }
